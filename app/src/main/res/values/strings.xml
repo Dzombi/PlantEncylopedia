@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Spirala</string>
+    <string-array name="spinner_items">
+        <item>Medicinski</item>
+        <item>Kuharski</item>
+        <item>Botanički</item>
+    </string-array>
+    <string-array name="boja_spinner_items">
+        <item> Pick a color </item>
+        <item> Red </item>
+        <item> Blue </item>
+        <item> Yellow </item>
+        <item> Orange </item>
+        <item> Purple </item>
+        <item> Brown </item>
+        <item> Green </item>
+    </string-array>
+</resources>
